@@ -1,6 +1,6 @@
 
 # Objective
- Read a CSV file containing corporate profits over the years and create JSON format data and look for highest profit values in the data.
+ Read a CSV file containing corporate profits over the years, create JSON format data and look for highest profit values in the data.
 
 # Output
 The main.js file parses the data.csv file and provides:
